@@ -1,6 +1,8 @@
 import java.io.Reader;
 import java.util.Scanner;
 
+
+
 class div3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); 
