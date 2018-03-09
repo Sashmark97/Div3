@@ -1,5 +1,4 @@
 import java.io.Reader;
-
 import java.util.Scanner;
 
 class div3 {
